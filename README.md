@@ -61,3 +61,6 @@ Rate limit:           300
 Rate limit remaining: 299
 Rate limit reset:     2016-09-22 21:36:47 -0400 EDT
 ```
+
+##Thanks
+I'd like to thank kurrik for his clean and simple Twitter library, [twittergo](https://github.com/kurrik/twittergo).
