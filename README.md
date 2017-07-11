@@ -1,7 +1,7 @@
-#twitcheck
+# twitcheck
 twitcheck is a quick and simple command-line tool to let you checkin on a Twitter user. And tell you what word they have been using most frequently.
 
-##Installing
+## Installing
 We suggest using the lovely go get tool to quickly add it to your path.
 ```
 go get -u github.com/mvryan/twitcheck
@@ -17,7 +17,7 @@ config.json
 
 ```
 
-##Usage
+## Usage
 Simply supply twitcheck with a user name and it will pull recent information about them and provide information about the calls to the API.
 ```
 Imin:~ ryan$ twitcheck twitterdev
@@ -62,5 +62,5 @@ Rate limit remaining: 299
 Rate limit reset:     2016-09-22 21:36:47 -0400 EDT
 ```
 
-##Thanks
+## Thanks
 I'd like to thank kurrik for his clean and simple Twitter library, [twittergo](https://github.com/kurrik/twittergo).
